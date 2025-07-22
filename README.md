@@ -48,6 +48,7 @@ I'm a **Data Analyst** with a strong grasp of turning raw data into clear, actio
 Platform: Excelerate, 
 Duration: June – July 2025, 
 Location: Remote | Dubai, UAE  
+
 🛠 Tools: Python, Pandas, NymPY, Matplotlib, Seaborn, Scikit-learn, Canva, Google Sheets  
 - Analyzed student engagement data to uncover signup trends, identify drop-off patterns, and recommend strategies for improving completion rates.
 - Cleaned and transformed raw datasets, conducted exploratory data analysis (EDA), and built predictive churn models using classification techniques.
