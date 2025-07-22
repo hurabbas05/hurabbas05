@@ -16,7 +16,12 @@
   <img src="https://img.shields.io/badge/Phone-📞+92%20303%206098700-lightgrey?style=flat"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Location-Pakistan-008000?style=flat"/>
+  &nbsp;&nbsp;
+  <a href="https://www.canva.com/design/DAGpgXod300/ybgmv76leivSks65fon6iQ/view?utm_content=DAGpgXod300&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2b653d90c5" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20View%20My%20CV-Click%20Here-1e90ff?style=flat-square&logo=google-drive&logoColor=white" alt="View My CV"/>
+  </a>
 </p>
+
 
 ---
 
