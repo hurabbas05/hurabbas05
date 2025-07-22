@@ -18,10 +18,9 @@
   <img src="https://img.shields.io/badge/Location-Pakistan-008000?style=flat"/>
   &nbsp;&nbsp;
   <a href="https://www.canva.com/design/DAGpgXod300/ybgmv76leivSks65fon6iQ/view?utm_content=DAGpgXod300&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2b653d90c5" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20View%20My%20CV-Click%20Here-1e90ff?style=flat-square&logo=google-drive&logoColor=white" alt="View My CV"/>
+    <img src="https://img.shields.io/badge/📄%20View%20My%20CV-1e90ff?style=flat-square" alt="View My CV"/>
   </a>
 </p>
-
 
 ---
 
@@ -46,8 +45,8 @@ I'm a **Data Analyst** with a strong grasp of turning raw data into clear, actio
 ## 💼 Experience
 
 ### **AI-Powered Data Insights Intern – Excelerate (Virtual)**
-Platform: Excelerate
-Duration: June – July 2025
+Platform: Excelerate, 
+Duration: June – July 2025, 
 Location: Remote | Dubai, UAE  
 🛠 Tools: Python, Pandas, NymPY, Matplotlib, Seaborn, Scikit-learn, Canva, Google Sheets  
 - Analyzed student engagement data to uncover signup trends, identify drop-off patterns, and recommend strategies for improving completion rates.
@@ -58,8 +57,8 @@ Location: Remote | Dubai, UAE
 ---
 
 ### **Marketing Insights & Innovation Intern – Glimpse (Virtual)**  
-Platform: Excelerate
-Duration: June – July 2025
+Platform: Excelerate, 
+Duration: June – July 2025, 
 Location: Remote | Dubai, UAE 
 🛠 Tools: Instagram, LinkedIn, Canva, Google Sheets  
 - Revived Glimpse’s social media presence by leading a 4-week digital campaign strategy tailored for the university market across Instagram & LinkedIn.
@@ -70,8 +69,8 @@ Location: Remote | Dubai, UAE
 ---
 
 ### **Data Visualization Intern – GlobalShala (Virtual)** *(Ongoing)*  
-Platform: Excelerate
-Duration: July 2025 – Present
+Platform: Excelerate, 
+Duration: July 2025 – Present, 
 Location: Remote | Dubai, UAE
 🛠 Tools: MS Excel, PowerPoint, Canva, Google Sheets  
 - Currently contributing to a collaborative project analyzing marketing campaign data to identify cost-saving insights for the Finance team.
@@ -82,8 +81,8 @@ Location: Remote | Dubai, UAE
 ---
 
 ### **Project Management Intern – Excelerate (Virtual)** *(Ongoing)*  
-Platform: Excelerate
-Duration: July 2025 – Present
+Platform: Excelerate, 
+Duration: July 2025 – Present, 
 Location: Remote | Dubai, UAE  
 🛠 Tools: MS Excel, PowerPoint, Canva, Google Sheets  
 - Developing a comprehensive project plan for a global virtual event, including scope definition, Gantt-based scheduling, and initial risk assessment.
