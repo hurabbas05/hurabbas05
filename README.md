@@ -60,6 +60,7 @@ Location: Remote | Dubai, UAE
 Platform: Excelerate, 
 Duration: June – July 2025, 
 Location: Remote | Dubai, UAE
+
 🛠 Tools: Instagram, LinkedIn, Canva, Google Sheets  
 - Revived Glimpse’s social media presence by leading a 4-week digital campaign strategy tailored for the university market across Instagram & LinkedIn.
 - Conducted in-depth competitor analysis and audience research to craft trend-driven content calendars, optimized visuals, and platform-specific engagement.
@@ -72,6 +73,7 @@ Location: Remote | Dubai, UAE
 Platform: Excelerate, 
 Duration: July 2025 – Present, 
 Location: Remote | Dubai, UAE
+
 🛠 Tools: MS Excel, PowerPoint, Canva, Google Sheets  
 - Currently contributing to a collaborative project analyzing marketing campaign data to identify cost-saving insights for the Finance team.
 - Working on refining data visualizations and presentation design to clearly communicate campaign performance and actionable recommendations.
@@ -84,6 +86,7 @@ Location: Remote | Dubai, UAE
 Platform: Excelerate, 
 Duration: July 2025 – Present, 
 Location: Remote | Dubai, UAE  
+
 🛠 Tools: MS Excel, PowerPoint, Canva, Google Sheets  
 - Developing a comprehensive project plan for a global virtual event, including scope definition, Gantt-based scheduling, and initial risk assessment.
 - Collaborating with a cross-functional, international team to draft proposals, allocate resources, and align deliverables within a $30,000 budget.
