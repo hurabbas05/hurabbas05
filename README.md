@@ -1,9 +1,17 @@
 <h1 align="center">👋 Hi, I'm Syed Hur Abbas Naqvi</h1>
 
 <p align="center">
-  <a href="mailto:syedhur572@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:syedhur572@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hurabbas05/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/hurabbas05/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://hurabbas05.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
+  </a>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Phone-📞+92%20303%206098700-lightgrey?style=flat"/>
   &nbsp;&nbsp;
@@ -14,9 +22,7 @@
 
 ## 🧠 About Me
 
-I'm a **Data Analyst** with a strong grasp of turning raw data into clear, actionable insights. My work combines technical analytics skills with a clinical mindset to create meaningful, data-driven solutions.
-
-Recently completed a **Data Analytics Certification** from the *Institute of Emerging Careers*, where I specialized in Python, SQL, Excel, Power BI, and statistical methods for analytics.
+I'm a **Data Analyst** with a strong grasp of turning raw data into clear, actionable insights. Skilled in data visualization, reporting, and analytics, with added perspective from clinical experience. Adept at uncovering trends and translating complex information into practical recommendations. Focused on driving smart decisions in fast-paced, growth-oriented teams.
 
 ---
 
