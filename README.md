@@ -59,7 +59,7 @@ Location: Remote | Dubai, UAE
 ### **Marketing Insights & Innovation Intern – Glimpse (Virtual)**  
 Platform: Excelerate, 
 Duration: June – July 2025, 
-Location: Remote | Dubai, UAE 
+Location: Remote | Dubai, UAE
 🛠 Tools: Instagram, LinkedIn, Canva, Google Sheets  
 - Revived Glimpse’s social media presence by leading a 4-week digital campaign strategy tailored for the university market across Instagram & LinkedIn.
 - Conducted in-depth competitor analysis and audience research to craft trend-driven content calendars, optimized visuals, and platform-specific engagement.
@@ -93,7 +93,7 @@ Location: Remote | Dubai, UAE
 ## 📁 Projects
 
 ### 🔍 [Loan Default Risk Analysis Project](https://github.com/hurabbas05/Loan-Default-Risk-Analysis)  
-🛠 Tools: Python (Jupyter Notebook), Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+🛠 Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - Analyzed 32,000+ loan records to uncover key default risk drivers using statistical tests and data visualization.
 - Designed a predictive pipeline with feature engineering, EDA, and modeling; Random Forest achieved 97% accuracy, catching 91% actual defaulters.
 - Presented actionable insights (via age, income, interest, loan grade) to improve loan approval strategies and reduce risk exposure.
@@ -123,6 +123,7 @@ Location: Remote | Dubai, UAE
 
 ---
 
-Thanks for visiting!  
-I’m open to collaborations, freelance projects, or data roles where insights meet impact.  
-Let’s connect and build something meaningful together 🚀
+Thanks for visiting!    
+I'm always excited to collaborate, solve real-world problems, or contribute to impactful data projects.  
+Feel free to reach out — let’s turn insights into action! 🚀
+
