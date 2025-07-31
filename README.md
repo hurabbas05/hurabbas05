@@ -70,16 +70,15 @@ Location: Remote | Dubai, UAE
 
 ---
 
-### **Data Visualization Intern – GlobalShala (Virtual)** *(Ongoing)*  
+### **Data Visualization Intern – GlobalShala (Virtual)**  
 Platform: Excelerate, 
 Duration: July 2025 – Present, 
 Location: Remote | Dubai, UAE
 
 🛠 Tools: MS Excel, PowerPoint, Canva, Google Sheets  
-- Currently contributing to a collaborative project analyzing marketing campaign data to identify cost-saving insights for the Finance team.
-- Working on refining data visualizations and presentation design to clearly communicate campaign performance and actionable recommendations.
-- Collaborating with an international team to create a final stakeholder-facing presentation based on analytics and design best practices.
-- Designing a high-impact presentation using professional visual principles to translate complex findings into clear, executive-ready storytelling.
+- Analyzed Facebook Ad campaign data from GlobalShala’s Superhero U event to identify underperforming ads using key metrics like Reach, CTR, CPC, and Impressions.
+- Created clear, engaging visual reports in Excel to highlight ad performance gaps and support data-driven decisions for the Finance team.
+- Collaborated with team members to deliver a final presentation summarizing campaign trends, key insights, and cost-saving recommendations.
 
 ---
 
