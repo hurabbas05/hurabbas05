@@ -52,10 +52,10 @@ Location: Remote | Dubai, UAE
 
 🛠 Tools: Python, Pandas, NymPY, Matplotlib, Seaborn, Scikit-learn, Canva, Google Sheets  
 
-- Analyzed student engagement data to uncover signup trends, identify drop-off patterns, and recommend strategies for improving completion rates.
-- Cleaned and transformed raw datasets, conducted exploratory data analysis (EDA), and built predictive churn models using classification techniques.
-- Delivered a final report and presentation highlighting insights, model outcomes, and a prototype recommendation system to enhance student retention.
-- Collaborated with an international team of data interns, coordinating across time zones to deliver a cohesive, data-driven solution.
+🔹 Analyzed student engagement data to uncover signup trends, identify drop-off patterns, and recommend strategies for improving completion rates.     
+🔹 Cleaned and transformed raw datasets, conducted exploratory data analysis (EDA), and built predictive churn models using classification techniques.      
+🔹 Delivered a final report and presentation highlighting insights, model outcomes, and a prototype recommendation system to enhance student retention.      
+🔹 Collaborated with an international team of data interns, coordinating across time zones to deliver a cohesive, data-driven solution.  
 
 ---
 
@@ -67,9 +67,9 @@ Location: Remote | Dubai, UAE
 
 🛠 Tools: MS Excel, PowerPoint, Canva, Google Sheets  
 
-- Analyzed Facebook Ad campaign data from GlobalShala’s Superhero U event to identify underperforming ads using key metrics like Reach, CTR, CPC, and Impressions.
-- Created clear, engaging visual reports in Excel to highlight ad performance gaps and support data-driven decisions for the Finance team.
-- Collaborated with team members to deliver a final presentation summarizing campaign trends, key insights, and cost-saving recommendations.
+🔹 Analyzed Facebook Ad campaign data from GlobalShala’s Superhero U event to identify underperforming ads using key metrics like Reach, CTR, CPC, and Impressions.    
+🔹 Created clear, engaging visual reports in Excel to highlight ad performance gaps and support data-driven decisions for the Finance team.      
+🔹 Collaborated with team members to deliver a final presentation summarizing campaign trends, key insights, and cost-saving recommendations.  
 
 ---
 ### **Marketing Insights & Innovation Intern – Glimpse (Virtual)**  
@@ -80,10 +80,10 @@ Location: Remote | Dubai, UAE
 
 🛠 Tools: Instagram, LinkedIn, Canva, Google Sheets  
 
-- Revived Glimpse’s social media presence by leading a 4-week digital campaign strategy tailored for the university market across Instagram & LinkedIn.
-- Conducted in-depth competitor analysis and audience research to craft trend-driven content calendars, optimized visuals, and platform-specific engagement.
-- Launched influencer outreach & interactive campaigns (polls, giveaways, stories), helping position Glimpse as a go-to travel merchandising partner.
-- Analyzed content performance using reach, engagement, and growth metrics to shape next-month’s marketing roadmap with data-backed decisions.
+🔹 Revived Glimpse’s social media presence by leading a 4-week digital campaign strategy tailored for the university market across Instagram & LinkedIn.    
+🔹 Conducted in-depth competitor analysis and audience research to craft trend-driven content calendars, optimized visuals, and platform-specific engagement.    
+🔹 Launched influencer outreach & interactive campaigns (polls, giveaways, stories), helping position Glimpse as a go-to travel merchandising partner.    
+🔹 Analyzed content performance using reach, engagement, and growth metrics to shape next-month’s marketing roadmap with data-backed decisions.  
 
 ---
 ### **Project Management Intern – Excelerate (Virtual)** *(Ongoing)*  
@@ -94,8 +94,8 @@ Location: Remote | Dubai, UAE
 
 🛠 Tools: MS Excel, PowerPoint, Canva, Google Sheets  
 
-🔹Planned a global experiential learning event by developing a detailed Project Charter, Work Breakdown Structure, and team proposal, aligned with a $30,000 budget and a 6-month timeline.
-🔹Designed a professional Gantt chart with task sequences, dependencies, milestones, and created a comprehensive Risk Register with mitigation strategies for major project risks.
+🔹Planned a global experiential learning event by developing a detailed Project Charter, Work Breakdown Structure, and team proposal, aligned with a $30,000 budget and a 6-month timeline.    
+🔹Designed a professional Gantt chart with task sequences, dependencies, milestones, and created a comprehensive Risk Register with mitigation strategies for major project risks.    
 🔹Co-presented the final project plan to leadership, showcasing timeline control, risk foresight, and implementation readiness.
 
 ---
