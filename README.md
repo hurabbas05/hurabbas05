@@ -38,16 +38,16 @@ I'm a **Data Analyst** with a strong grasp of turning raw data into clear, actio
 | **Data Viz**         | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-2D3F73?style=flat) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
 | **Databases**        | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | **Analytics**        | Statistical Testing • Hypothesis Testing • Regression Analysis • ETL |
-| **Other Tools**      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Project Mgmt](https://img.shields.io/badge/Project--Management-lightgrey) |
+| **Other Tools**      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Project Mgmt](https://img.shields.io/badge/Project--Management-lightgrey) ![Artificial Intelligence](https://img.shields.io/badge/Artificial--Intelligence-lightblue)|
 
 ---
 
 ## 💼 Experience
 
 ### **AI-Powered Data Insights Intern – Excelerate (Virtual)**
-Platform: Excelerate, 
-Role: Data Analyst 
-Duration: June – July 2025, 
+Platform: Excelerate                        
+Role: Data Analyst                    
+Duration: June – July 2025                                                                
 Location: Remote | Dubai, UAE  
 
 🛠 Tools: Python, Pandas, NymPY, Matplotlib, Seaborn, Scikit-learn, Canva, Google Sheets  
@@ -60,10 +60,10 @@ Location: Remote | Dubai, UAE
 ---
 
 ### **Data Visualization Intern – GlobalShala (Virtual)**  
-Platform: Excelerate, 
-Role: Data Analyst
-Duration: July 2025 – Present, 
-Location: Remote | Dubai, UAE
+Platform: Excelerate                                 
+Role: Data Analyst                                     
+Duration: July 2025 – Present                                                
+Location: Remote | Dubai, UAE                   
 
 🛠 Tools: MS Excel, PowerPoint, Canva, Google Sheets  
 
@@ -73,10 +73,10 @@ Location: Remote | Dubai, UAE
 
 ---
 ### **Marketing Insights & Innovation Intern – Glimpse (Virtual)**  
-Platform: Excelerate, 
-Role: Marketing intern
-Duration: June – July 2025, 
-Location: Remote | Dubai, UAE
+Platform: Excelerate                                                       
+Role: Marketing intern                                                    
+Duration: June – July 2025                                                               
+Location: Remote | Dubai, UAE                        
 
 🛠 Tools: Instagram, LinkedIn, Canva, Google Sheets  
 
@@ -87,10 +87,10 @@ Location: Remote | Dubai, UAE
 
 ---
 ### **Project Management Intern – Excelerate (Virtual)** *(Ongoing)*  
-Platform: Excelerate, 
-Role: Project Manager
-Duration: July – August 2025, 
-Location: Remote | Dubai, UAE  
+Platform: Excelerate                                                               
+Role: Project Manager                                                   
+Duration: July – August 2025                                                                 
+Location: Remote | Dubai, UAE                                                  
 
 🛠 Tools: MS Excel, PowerPoint, Canva, Google Sheets  
 
