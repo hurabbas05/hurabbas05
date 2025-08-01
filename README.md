@@ -94,9 +94,9 @@ Location: Remote | Dubai, UAE
 
 🛠 Tools: MS Excel, PowerPoint, Canva, Google Sheets  
 
-- Planned a global experiential learning event by creating a detailed Project Charter, Work Breakdown Structure, and team proposal aligned with a $30,000 budget and 6-month execution timeline.
-- Designed a professional Gantt chart covering task sequences, dependencies, and key milestones, and developed a Risk Register outlining mitigation strategies for high-impact project risks.
-- Co-presented the final project plan to company leadership, demonstrating event readiness, timeline control, and proactive risk management to ensure smooth implementation.
+🔹Planned a global experiential learning event by developing a detailed Project Charter, Work Breakdown Structure, and team proposal, aligned with a $30,000 budget and a 6-month timeline.
+🔹Designed a professional Gantt chart with task sequences, dependencies, milestones, and created a comprehensive Risk Register with mitigation strategies for major project risks.
+🔹Co-presented the final project plan to leadership, showcasing timeline control, risk foresight, and implementation readiness.
 
 ---
 
