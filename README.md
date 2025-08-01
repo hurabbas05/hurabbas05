@@ -44,7 +44,7 @@ I'm a **Data Analyst** with a strong grasp of turning raw data into clear, actio
 
 ## 💼 Experience
 
-### **AI-Powered Data Insights Intern – Excelerate (Virtual)**
+### **AI-Powered Data Insights Global Internship – Excelerate (Virtual)**
 Platform: Excelerate                        
 Role: Data Analyst                    
 Duration: June – July 2025                                                                
@@ -59,10 +59,10 @@ Location: Remote | Dubai, UAE
 
 ---
 
-### **Data Visualization Intern – GlobalShala (Virtual)**  
+### **Data Visualization Global Internship – GlobalShala (Virtual)**  
 Platform: Excelerate                                 
 Role: Data Analyst                                     
-Duration: July 2025 – Present                                                
+Duration: July – August 2025                                                
 Location: Remote | Dubai, UAE                   
 
 🛠 Tools: MS Excel, PowerPoint, Canva, Google Sheets  
@@ -72,7 +72,7 @@ Location: Remote | Dubai, UAE
 🔹 Collaborated with team members to deliver a final presentation summarizing campaign trends, key insights, and cost-saving recommendations.  
 
 ---
-### **Marketing Insights & Innovation Intern – Glimpse (Virtual)**  
+### **Marketing Insights & Innovation Global Internship – Glimpse (Virtual)**  
 Platform: Excelerate                                                       
 Role: Marketing intern                                                    
 Duration: June – July 2025                                                               
@@ -86,7 +86,7 @@ Location: Remote | Dubai, UAE
 🔹 Analyzed content performance using reach, engagement, and growth metrics to shape next-month’s marketing roadmap with data-backed decisions.  
 
 ---
-### **Project Management Intern – Excelerate (Virtual)** *(Ongoing)*  
+### **Project Management Global Internship – Excelerate (Virtual)**   
 Platform: Excelerate                                                               
 Role: Project Manager                                                   
 Duration: July – August 2025                                                                 
