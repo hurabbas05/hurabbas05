@@ -46,10 +46,12 @@ I'm a **Data Analyst** with a strong grasp of turning raw data into clear, actio
 
 ### **AI-Powered Data Insights Intern – Excelerate (Virtual)**
 Platform: Excelerate, 
+Role: Data Analyst 
 Duration: June – July 2025, 
 Location: Remote | Dubai, UAE  
 
 🛠 Tools: Python, Pandas, NymPY, Matplotlib, Seaborn, Scikit-learn, Canva, Google Sheets  
+
 - Analyzed student engagement data to uncover signup trends, identify drop-off patterns, and recommend strategies for improving completion rates.
 - Cleaned and transformed raw datasets, conducted exploratory data analysis (EDA), and built predictive churn models using classification techniques.
 - Delivered a final report and presentation highlighting insights, model outcomes, and a prototype recommendation system to enhance student retention.
@@ -57,46 +59,53 @@ Location: Remote | Dubai, UAE
 
 ---
 
+### **Data Visualization Intern – GlobalShala (Virtual)**  
+Platform: Excelerate, 
+Role: Data Analyst
+Duration: July 2025 – Present, 
+Location: Remote | Dubai, UAE
+
+🛠 Tools: MS Excel, PowerPoint, Canva, Google Sheets  
+
+- Analyzed Facebook Ad campaign data from GlobalShala’s Superhero U event to identify underperforming ads using key metrics like Reach, CTR, CPC, and Impressions.
+- Created clear, engaging visual reports in Excel to highlight ad performance gaps and support data-driven decisions for the Finance team.
+- Collaborated with team members to deliver a final presentation summarizing campaign trends, key insights, and cost-saving recommendations.
+
+---
 ### **Marketing Insights & Innovation Intern – Glimpse (Virtual)**  
 Platform: Excelerate, 
+Role: Marketing intern
 Duration: June – July 2025, 
 Location: Remote | Dubai, UAE
 
 🛠 Tools: Instagram, LinkedIn, Canva, Google Sheets  
+
 - Revived Glimpse’s social media presence by leading a 4-week digital campaign strategy tailored for the university market across Instagram & LinkedIn.
 - Conducted in-depth competitor analysis and audience research to craft trend-driven content calendars, optimized visuals, and platform-specific engagement.
 - Launched influencer outreach & interactive campaigns (polls, giveaways, stories), helping position Glimpse as a go-to travel merchandising partner.
 - Analyzed content performance using reach, engagement, and growth metrics to shape next-month’s marketing roadmap with data-backed decisions.
 
 ---
-
-### **Data Visualization Intern – GlobalShala (Virtual)**  
-Platform: Excelerate, 
-Duration: July 2025 – Present, 
-Location: Remote | Dubai, UAE
-
-🛠 Tools: MS Excel, PowerPoint, Canva, Google Sheets  
-- Analyzed Facebook Ad campaign data from GlobalShala’s Superhero U event to identify underperforming ads using key metrics like Reach, CTR, CPC, and Impressions.
-- Created clear, engaging visual reports in Excel to highlight ad performance gaps and support data-driven decisions for the Finance team.
-- Collaborated with team members to deliver a final presentation summarizing campaign trends, key insights, and cost-saving recommendations.
-
----
-
 ### **Project Management Intern – Excelerate (Virtual)** *(Ongoing)*  
 Platform: Excelerate, 
-Duration: July 2025 – Present, 
+Role: Project Manager
+Duration: July – August 2025, 
 Location: Remote | Dubai, UAE  
 
 🛠 Tools: MS Excel, PowerPoint, Canva, Google Sheets  
-- Developing a comprehensive project plan for a global virtual event, including scope definition, Gantt-based scheduling, and initial risk assessment.
-- Collaborating with a cross-functional, international team to draft proposals, allocate resources, and align deliverables within a $30,000 budget.
-- Participating in structured weekly reviews and internal team syncs to monitor progress, optimize planning, and ensure timeline alignment.
+
+- Planned a global experiential learning event by creating a detailed Project Charter, Work Breakdown Structure, and team proposal aligned with a $30,000 budget and 6-month execution timeline.
+- Designed a professional Gantt chart covering task sequences, dependencies, and key milestones, and developed a Risk Register outlining mitigation strategies for high-impact project risks.
+- Co-presented the final project plan to company leadership, demonstrating event readiness, timeline control, and proactive risk management to ensure smooth implementation.
+
 ---
 
 ## 📁 Projects
 
 ### 🔍 [Loan Default Risk Analysis Project](https://github.com/hurabbas05/Loan-Default-Risk-Analysis)  
+
 🛠 Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+
 - Analyzed 32,000+ loan records to uncover key default risk drivers using statistical tests and data visualization.
 - Designed a predictive pipeline with feature engineering, EDA, and modeling; Random Forest achieved 97% accuracy, catching 91% actual defaulters.
 - Presented actionable insights (via age, income, interest, loan grade) to improve loan approval strategies and reduce risk exposure.
@@ -104,7 +113,9 @@ Location: Remote | Dubai, UAE
 ---
 
 ### 🧬 [Capstone Dry Eye Disease Project](https://github.com/hurabbas05/Capstone-Dry-Eye-Disease-Project)  
+
 🛠 Tools: MySQL, MS Excel, MS PowerPoint  
+
 - Transformed raw patient data into strategic insights, uncovering lifestyle-driven risk factors for Dry Eye Disease using advanced analytics.
 - Pioneered data-driven visual narratives to bridge clinical understanding and patient outcomes, enhancing diagnostic precision.
 - Delivered a 360° analysis of DED triggers, empowering preventive care strategies through predictive modeling and symptom mapping.
@@ -122,6 +133,7 @@ Location: Remote | Dubai, UAE
 ## 📜 Certifications
 
 - **Data Analytics Certificate** – Institute of Emerging Careers  
+
 - **AI for Everyone** – Coursera
 
 ---
