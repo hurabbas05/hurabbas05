@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
   </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Phone-📞+92%20303%206098700-lightgrey?style=flat"/>
+  <img src="https://img.shields.io/badge/Phone-📞+92%20303%206098700-lightblue?style=flat"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Location-Pakistan-008000?style=flat"/>
   &nbsp;&nbsp;
@@ -35,10 +35,10 @@ I'm a **Data Analyst** with a strong grasp of turning raw data into clear, actio
 | Category             | Tools & Technologies |
 |----------------------|----------------------|
 | **Languages**        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **Data Viz**         | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-2D3F73?style=flat) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
+| **Data Viz**         | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=flat&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-2D3F73?style=flat) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
 | **Databases**        | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | **Analytics**        | Statistical Testing • Hypothesis Testing • Regression Analysis • ETL |
-| **Other Tools**      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Project Mgmt](https://img.shields.io/badge/Project--Management-lightgrey) ![Artificial Intelligence](https://img.shields.io/badge/Artificial--Intelligence-lightblue)|
+| **Other Tools**      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Project Mgmt](https://img.shields.io/badge/Project--Management-lightblue) ![Artificial Intelligence](https://img.shields.io/badge/Artificial--Intelligence-lightblue)|
 
 ---
 
