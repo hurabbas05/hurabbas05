@@ -54,7 +54,7 @@ Location: Remote | Dubai, UAE
 
 🔹 Analyzed student engagement data to uncover signup trends, identify drop-off patterns, and recommend strategies for improving completion rates.     
 🔹 Cleaned and transformed raw datasets, conducted exploratory data analysis (EDA), and built predictive churn models using classification techniques.      
-🔹 Delivered a final report and presentation highlighting insights, model outcomes, and a prototype recommendation system to enhance student retention.      
+🔹 Delivered a final report and presentation highlighting insights, model outcomes, and an initial recommendation system to enhance student retention.      
 🔹 Collaborated with an international team of data interns, coordinating across time zones to deliver a cohesive, data-driven solution.  
 
 ---
