@@ -142,3 +142,14 @@ Thanks for visiting!
 I'm always excited to collaborate, solve real-world problems, or contribute to impactful data projects.  
 Feel free to reach out — let’s turn insights into action! 🚀
 
+---
+
+## 🙋‍♂️ Author
+
+**Syed Hur Abbas Naqvi**  
+🌐 **Portfolio:** [https://hurabbas05.github.io/](https://hurabbas05.github.io/)  
+🔗 **LinkedIn:**  [https://www.linkedin.com/in/hurabbas05/](https://www.linkedin.com/in/hurabbas05/)  
+📧 **Email:**     [syedhur572@gmail.com](mailto:syedhur572@gmail.com)  
+📞 **Phone:**     [+923036098700](tel:+923036098700)
+
+---
