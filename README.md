@@ -145,7 +145,7 @@ Feel free to reach out — let’s turn insights into action! 🚀
 
 ## 🙋‍♂️ Author
 
-I’m **Syed Hur Abbas Naqvi**, a Certified Data Analyst skilled in **Python, SQL, Power BI, Tableau, and Excel**.  
+I’m **Syed Hur Abbas Naqvi**, a Certified Data Analyst skilled in **Python, SQL, Power BI, Excel, and Machine Learning**.  
 I specialize in turning raw data into **business intelligence that drives growth** — from **data cleaning & EDA** to **visualization & strategic insights**.
 
 🌐 **Portfolio:** [https://hurabbas05.github.io/](https://hurabbas05.github.io/)  
