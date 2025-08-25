@@ -1,8 +1,5 @@
 <h1 align="center">👋 Hi, I'm Syed Hur Abbas Naqvi</h1>
-<h1 align="center"> Certified Data Analyst | Business Insights | Marketing Analytics | Healthcare Data | Dashboard Development
 
-      
----
 <p align="center">
   <a href="mailto:syedhur572@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -29,7 +26,7 @@
 
 ## 🧠 About Me
 
-I'm a **Data Analyst** with a strong grasp of turning raw data into clear, actionable insights. Skilled in data visualization, reporting, and analytics, with added perspective from clinical experience. Adept at uncovering trends and translating complex information into practical recommendations. Focused on driving smart decisions in fast-paced, growth-oriented teams.
+I'm a **Certified Data Analyst** with a strong grasp of turning raw data into clear, actionable insights. Skilled in data visualization, reporting, and analytics, with added perspective from clinical experience. Adept at uncovering trends and translating complex information into practical recommendations. Focused on driving smart decisions in fast-paced, growth-oriented teams.
 
 ---
 
@@ -40,7 +37,7 @@ I'm a **Data Analyst** with a strong grasp of turning raw data into clear, actio
 | **Languages**        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
 | **Data Visualization**         | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=flat&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-2D3F73?style=flat) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
 | **Databases**        | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Analytics**        | ![Statistical Testing](https://img.shields.io/badge/Statistical--Testing-blue) ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis--Testing-blue)  ![Regression Analysis](https://img.shields.io/badge/Regression--Analysis-blue) ![ETL](https://img.shields.io/badge/ETL-blue) |
+| **Analytics**        | ![Statistical Testing](https://img.shields.io/badge/Statistical--Testing-blue) ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis--Testing-grey)  ![Regression Analysis](https://img.shields.io/badge/Regression--Analysis-lightblue) ![ETL](https://img.shields.io/badge/ETL-lightorange) |
 | **Other Tools**      | ![Project Mgmt](https://img.shields.io/badge/Project--Management-blue) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Github](https://img.shields.io/badge/Github-F05032?style=flat&logo=git&logoColor=white)
 ---
 
