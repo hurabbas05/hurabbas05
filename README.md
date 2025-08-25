@@ -75,7 +75,7 @@ I'm a **Certified Data Analyst** with a strong grasp of turning raw data into cl
 ## 💼 Experience
 
 ### **Data Analyst – Business Insights & Reporting** *(Jan 2025 - Present)*  
-Platform: Excelerate
+Platform: Excelerate                                                           
 Location: Remote | Dubai, UAE
 
 🛠 **Tools Used**: Python, SQL, Microsoft Power BI, Excel  
@@ -88,7 +88,7 @@ Location: Remote | Dubai, UAE
 ---
 
 ### **Data Analyst – Marketing Insights & Visualization**  *(Nov 2023 - Dec 2024)*
-Platform: Excelerate/Globalshala
+Platform: Excelerate/Globalshala                                                                 
 Location: Remote | Dubai, UAE
 
 🛠 **Tools Used**: Python, Microsoft Power BI, Excel  
@@ -101,7 +101,7 @@ Location: Remote | Dubai, UAE
 
 ---
 ### **Data Analytics Internship – Elevvo Pathways** *(July - August 2025)*                                                        
-Role: Data Analyst                                                                                                                  
+Role: Data Analyst                                                                                                                                             
 Location: Remote | Cario, Egypt                        
 
 🛠 **Tools Used**: Python, SQL, Excel, Microsoft Power BI  
