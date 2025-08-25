@@ -37,13 +37,13 @@ I'm a **Data Analyst** with a strong grasp of turning raw data into clear, actio
 | **Languages**        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
 | **Data Visualization**         | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=flat&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-2D3F73?style=flat) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
 | **Databases**        | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Analytics**        | Statistical Testing • Hypothesis Testing • Regression Analysis • ETL |
+| **Analytics**        | ![Statistical Testing](https://img.shields.io/badge/Statistical--Testing-blue) ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis--Testing-blue)  ![Regression Analysis](https://img.shields.io/badge/Regression--Analysis-blue) ![ETL](https://img.shields.io/badge/ETL-blue) |
 | **Other Tools**      | ![Project Mgmt](https://img.shields.io/badge/Project--Management-blue) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Github](https://img.shields.io/badge/Github-F05032?style=flat&logo=git&logoColor=white)
 ---
 
 ## 📁 Projects
 
-### 📈 [RetailX Data Analytics: Revenue Insights & Visualization](https://github.com/hurabbas05/Loan-Default-Risk-Analysis)  
+### 📈 [RetailX Data Analytics: Revenue Insights & Visualization](https://github.com/hurabbas05/RetailX-Revenue-Insights-Strategy-Project)  
 
 🛠 **Tools Used**: Python, Microsoft Excel, Google Docs  
 
@@ -80,10 +80,10 @@ Location: Remote | Dubai, UAE
 
 🛠 **Tools Used**: Python, SQL, Microsoft Power BI, Excel  
 
-🔹 Cleaned, transformed, and analyzed data using Python, SQL, and Excel, delivering accurate reports for stakeholders.
-🔹Performed exploratory data analysis (EDA) to identify business trends and support data-driven decisions.
-🔹Developed and deployed interactive dashboards in Power BI & Excel, enhancing KPI monitoring for stakeholders.
-🔹Translated complex datasets into clear, actionable insights, driving improved marketing and operational strategies.
+🔹 Cleaned, transformed, and analyzed data using Python, SQL, and Excel, delivering accurate reports for stakeholders.                                  
+🔹Performed exploratory data analysis (EDA) to identify business trends and support data-driven decisions.                                     
+🔹Developed and deployed interactive dashboards in Power BI & Excel, enhancing KPI monitoring for stakeholders.                        
+🔹Translated complex datasets into clear, actionable insights, driving improved marketing and operational strategies.                                  
 
 ---
 
@@ -93,11 +93,11 @@ Location: Remote | Dubai, UAE
 
 🛠 **Tools Used**: Python, Microsoft Power BI, Excel  
 
-🔹 Cleaned, analyzed, and visualized digital marketing campaign data (Excel, Power BI, Python) to deliver insights on ROI and ad performance (Reach, CTR, CPC, Impressions).
-🔹Built interactive dashboards and reports for KPI tracking, budget optimization, and strategic decision-making.
-🔹Conducted competitor analysis, trend research, and audience segmentation, improving brand positioning and engagement across Instagram & LinkedIn.
-🔹Partnered with cross-functional teams to convert raw data into actionable insights, driving campaign innovation and measurable business results.
-🔹Improved overall marketing strategy by transforming complex data into clear, decision-ready insights that directly contributed to growth.
+🔹 Cleaned, analyzed, and visualized digital marketing campaign data (Excel, Power BI, Python) to deliver insights on ROI and ad performance (Reach, CTR, CPC, Impressions).       
+🔹Built interactive dashboards and reports for KPI tracking, budget optimization, and strategic decision-making.                 
+🔹Conducted competitor analysis, trend research, and audience segmentation, improving brand positioning and engagement across Instagram & LinkedIn.                
+🔹Partnered with cross-functional teams to convert raw data into actionable insights, driving campaign innovation and measurable business results.                
+🔹Improved overall marketing strategy by transforming complex data into clear, decision-ready insights that directly contributed to growth.               
 
 ---
 ### **Data Analytics Internship – Elevvo Pathways** *(July - August 2025)*                                                        
@@ -106,10 +106,10 @@ Location: Remote | Cario, Egypt
 
 🛠 **Tools Used**: Python, SQL, Excel, Microsoft Power BI  
 
-🔹Completed a 1-month Data Analytics Track with focus on real-world projects and case studies.
-🔹Conducted data cleaning, transformation, and visualization using Python, SQL, Excel, and Power BI.
-🔹Applied statistical methods and hypothesis testing to extract actionable business insights.
-🔹Built interactive dashboards and professional reports aligned with industry standards.   
+🔹Completed a 1-month Data Analytics Track with focus on real-world projects and case studies.                                        
+🔹Conducted data cleaning, transformation, and visualization using Python, SQL, Excel, and Power BI.                                    
+🔹Applied statistical methods and hypothesis testing to extract actionable business insights.                                               
+🔹Built interactive dashboards and professional reports aligned with industry standards.                                    
 
 ---
 ### **Project Management Global Internship – Excelerate** *(July - August 2025)*                                                                 
@@ -118,10 +118,10 @@ Location: Remote | Dubai, UAE
 
 🛠 **Tools Used**: Microsoft Excel, Canva, Google Sheets  
 
-🔹Planned a global experiential learning event, developing the Project Charter, Work Breakdown Structure, and team proposal aligned with a $30,000 budget and 6-month timeline.
-🔹Created a Gantt chart with task sequences, dependencies, and milestones to streamline execution.
-🔹Built a comprehensive Risk Register with mitigation strategies for major project risks.
-🔹Presented the final project plan to leadership, demonstrating strong timeline control, risk management, and implementation readiness.
+🔹Planned a global experiential learning event, developing the Project Charter, Work Breakdown Structure, and team proposal aligned with a $30,000 budget and 6-month timeline.       
+🔹Created a Gantt chart with task sequences, dependencies, and milestones to streamline execution.                                                
+🔹Built a comprehensive Risk Register with mitigation strategies for major project risks.                                                      
+🔹Presented the final project plan to leadership, demonstrating strong timeline control, risk management, and implementation readiness.                     
 
 ---
 ## 🎓 Certifications
