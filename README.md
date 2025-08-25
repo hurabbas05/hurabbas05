@@ -38,100 +38,105 @@ I'm a **Data Analyst** with a strong grasp of turning raw data into clear, actio
 | **Data Visualization**         | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=flat&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-2D3F73?style=flat) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
 | **Databases**        | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | **Analytics**        | Statistical Testing • Hypothesis Testing • Regression Analysis • ETL |
-| **Other Tools**      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Project Mgmt](https://img.shields.io/badge/Project--Management-blue)
----
-
-## 💼 Experience
-
-### **AI-Powered Data Insights Global Internship – Excelerate (Virtual)**
-Platform: Excelerate                        
-Role: Data Analyst                    
-Duration: June – July 2025                                                                
-Location: Remote | Dubai, UAE  
-
-🛠 Tools: Python, Pandas, NymPY, Matplotlib, Seaborn, Scikit-learn, Canva, Google Sheets  
-
-🔹 Analyzed student engagement data to uncover signup trends, identify drop-off patterns, and recommend strategies for improving completion rates.     
-🔹 Cleaned and transformed raw datasets, conducted exploratory data analysis (EDA), and built predictive churn models using classification techniques.      
-🔹 Delivered a final report and presentation highlighting insights, model outcomes, and an initial recommendation system to enhance student retention.      
-🔹 Collaborated with an international team of data interns, coordinating across time zones to deliver a cohesive, data-driven solution.  
-
----
-
-### **Data Visualization Global Internship – GlobalShala (Virtual)**  
-Platform: Excelerate                                 
-Role: Data Analyst                                     
-Duration: July – August 2025                                                
-Location: Remote | Dubai, UAE                   
-
-🛠 Tools: MS Excel, PowerPoint, Canva, Google Sheets  
-
-🔹 Analyzed Facebook Ad campaign data from GlobalShala’s Superhero U event to identify underperforming ads using key metrics like Reach, CTR, CPC, and Impressions.    
-🔹 Created clear, engaging visual reports in Excel to highlight ad performance gaps and support data-driven decisions for the Finance team.      
-🔹 Collaborated with team members to deliver a final presentation summarizing campaign trends, key insights, and cost-saving recommendations.  
-
----
-### **Marketing Insights & Innovation Global Internship – Glimpse (Virtual)**  
-Platform: Excelerate                                                       
-Role: Marketing intern                                                    
-Duration: June – July 2025                                                               
-Location: Remote | Dubai, UAE                        
-
-🛠 Tools: Instagram, LinkedIn, Canva, Google Sheets  
-
-🔹 Revived Glimpse’s social media presence by leading a 4-week digital campaign strategy tailored for the university market across Instagram & LinkedIn.    
-🔹 Conducted in-depth competitor analysis and audience research to craft trend-driven content calendars, optimized visuals, and platform-specific engagement.    
-🔹 Launched influencer outreach & interactive campaigns (polls, giveaways, stories), helping position Glimpse as a go-to travel merchandising partner.    
-🔹 Analyzed content performance using reach, engagement, and growth metrics to shape next-month’s marketing roadmap with data-backed decisions.  
-
----
-### **Project Management Global Internship – Excelerate (Virtual)**   
-Platform: Excelerate                                                               
-Role: Project Manager                                                   
-Duration: July – August 2025                                                                 
-Location: Remote | Dubai, UAE                                                  
-
-🛠 Tools: MS Excel, PowerPoint, Canva, Google Sheets  
-
-🔹Planned a global experiential learning event by developing a detailed Project Charter, Work Breakdown Structure, and team proposal, aligned with a $30,000 budget and a 6-month timeline.    
-🔹Designed a professional Gantt chart with task sequences, dependencies, milestones, and created a comprehensive Risk Register with mitigation strategies for major project risks.    
-🔹Co-presented the final project plan to leadership, showcasing timeline control, risk foresight, and implementation readiness.
-
+| **Other Tools**      | ![Project Mgmt](https://img.shields.io/badge/Project--Management-blue) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Github](https://img.shields.io/badge/Github-F05032?style=flat&logo=git&logoColor=white)
 ---
 
 ## 📁 Projects
 
+### 📈 [RetailX Data Analytics: Revenue Insights & Visualization](https://github.com/hurabbas05/Loan-Default-Risk-Analysis)  
+
+🛠 **Tools Used**: Python, Microsoft Excel, Google Docs  
+
+- Cleaned & transformed RetailX sales data (removed duplicates, handled missing values, fixed formats) to prepare analysis-ready dataset.
+- Performed revenue & return analysis using Python (EDA, KPI tracking, correlation) to identify top-performing regions, categories & payment-return trends.
+- Built visualizations & SWOT-based strategy recommendations to highlight growth opportunities, reduce return rates & support revenue optimization.
+
+---
+
 ### 🔍 [Loan Default Risk Analysis Project](https://github.com/hurabbas05/Loan-Default-Risk-Analysis)  
 
-🛠 Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+🛠 **Tools Used**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 
-- Analyzed 32,000+ loan records to uncover key default risk drivers using statistical tests and data visualization.
-- Designed a predictive pipeline with feature engineering, EDA, and modeling; Random Forest achieved 97% accuracy, catching 91% actual defaulters.
-- Presented actionable insights (via age, income, interest, loan grade) to improve loan approval strategies and reduce risk exposure.
-
+- Analyzed 32,000+ loan records to uncover default risk factors using statistical tests & EDA.
+- Built a predictive model with feature engineering & ML (Random Forest, 97% accuracy, 91% recall on defaulters).
+- Delivered actionable insights on age, income, interest rates & loan grade, helping optimize loan approval & minimize risk.
+- Designed interactive visuals & a presentation to communicate findings clearly to stakeholders.
 ---
 
 ### 🧬 [Capstone Dry Eye Disease Project](https://github.com/hurabbas05/Capstone-Dry-Eye-Disease-Project)  
 
-🛠 Tools: MySQL, MS Excel, MS PowerPoint  
+🛠 **Tools Used**: MySQL, Microsoft Excel, Microsoft PowerPoint, Canva  
 
-- Transformed raw patient data into strategic insights, uncovering lifestyle-driven risk factors for Dry Eye Disease using advanced analytics.
-- Pioneered data-driven visual narratives to bridge clinical understanding and patient outcomes, enhancing diagnostic precision.
-- Delivered a 360° analysis of DED triggers, empowering preventive care strategies through predictive modeling and symptom mapping.
+- Transformed raw patient data into actionable insights using MySQL and Excel, identifying lifestyle-driven risk factors for Dry Eye Disease using advanced analytics.
+- Developed data-driven visual narratives that bridged clinical understanding with patient outcomes, improving diagnostic precision.
+- Delivered a 360° analysis of Dry Eye Disease triggers, empowering preventive care strategies through predictive modeling and symptom mapping.
+
+---
+## 💼 Experience
+
+### **Data Analyst – Business Insights & Reporting** *(Jan 2025 - Present)*  
+Platform: Excelerate
+Location: Remote | Dubai, UAE
+
+🛠 **Tools Used**: Python, SQL, Microsoft Power BI, Excel  
+
+🔹 Cleaned, transformed, and analyzed data using Python, SQL, and Excel, delivering accurate reports for stakeholders.
+🔹Performed exploratory data analysis (EDA) to identify business trends and support data-driven decisions.
+🔹Developed and deployed interactive dashboards in Power BI & Excel, enhancing KPI monitoring for stakeholders.
+🔹Translated complex datasets into clear, actionable insights, driving improved marketing and operational strategies.
 
 ---
 
-## 🎓 Education
+### **Data Analyst – Marketing Insights & Visualization**  *(Nov 2023 - Dec 2024)*
+Platform: Excelerate/Globalshala
+Location: Remote | Dubai, UAE
 
-**Bachelor of Optometry and Orthoptics**  
-*Pakistan Institute of Ophthalmology – Al Shifa Trust Eye Hospital, Rawalpindi*  
-📅 2023 – Present
+🛠 **Tools Used**: Python, Microsoft Power BI, Excel  
+
+🔹 Cleaned, analyzed, and visualized digital marketing campaign data (Excel, Power BI, Python) to deliver insights on ROI and ad performance (Reach, CTR, CPC, Impressions).
+🔹Built interactive dashboards and reports for KPI tracking, budget optimization, and strategic decision-making.
+🔹Conducted competitor analysis, trend research, and audience segmentation, improving brand positioning and engagement across Instagram & LinkedIn.
+🔹Partnered with cross-functional teams to convert raw data into actionable insights, driving campaign innovation and measurable business results.
+🔹Improved overall marketing strategy by transforming complex data into clear, decision-ready insights that directly contributed to growth.
 
 ---
+### **Data Analytics Internship – Elevvo Pathways** *(July - August 2025)*                                                        
+Role: Data Analyst                                                                                                                  
+Location: Remote | Cario, Egypt                        
 
-## 📜 Certifications
+🛠 **Tools Used**: Python, SQL, Excel, Microsoft Power BI  
 
-- **Data Analytics Certificate** – Institute of Emerging Careers  
+🔹Completed a 1-month Data Analytics Track with focus on real-world projects and case studies.
+🔹Conducted data cleaning, transformation, and visualization using Python, SQL, Excel, and Power BI.
+🔹Applied statistical methods and hypothesis testing to extract actionable business insights.
+🔹Built interactive dashboards and professional reports aligned with industry standards.   
+
+---
+### **Project Management Global Internship – Excelerate** *(July - August 2025)*                                                                 
+Role: Project Manager                                                                                                                   
+Location: Remote | Dubai, UAE                                                  
+
+🛠 **Tools Used**: Microsoft Excel, Canva, Google Sheets  
+
+🔹Planned a global experiential learning event, developing the Project Charter, Work Breakdown Structure, and team proposal aligned with a $30,000 budget and 6-month timeline.
+🔹Created a Gantt chart with task sequences, dependencies, and milestones to streamline execution.
+🔹Built a comprehensive Risk Register with mitigation strategies for major project risks.
+🔹Presented the final project plan to leadership, demonstrating strong timeline control, risk management, and implementation readiness.
+
+---
+## 🎓 Certifications
+
+- **Data Analytics Certificate** – Institute of Emerging Careers (IEC)
+ 
+- **Data Analytics Job Simulation Certificate** - Deloitte Australia  
+
+- **Data Analytics Job Simulation Certificate** - Quantium  
+
+- **GenAI Powered Data Analytics** – Tata Group  
+
+- **Introduction to Data Science** – Commonwealth Bank  
+
+- **Quantitative Research** – J.P. Morgan Chase & Co. 
 
 - **AI for Everyone** – Coursera
 
