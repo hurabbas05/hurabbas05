@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I'm Syed Hur Abbas Naqvi</h1>
-<h1 align="center"> Certified Data Analyst | Business Insights | Marketing Analytics | Healthcare Data | Dashboard Development      
+<h1 align="center"> Certified Data Analyst | Business Insights | Marketing Analytics | Healthcare Data | Dashboard Development
+
+      
 ---
 <p align="center">
   <a href="mailto:syedhur572@gmail.com">
