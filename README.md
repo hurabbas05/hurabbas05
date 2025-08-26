@@ -74,9 +74,10 @@ I'm a **Certified Data Analyst** with a strong grasp of turning raw data into cl
 ---
 ## 💼 Experience
 
-### **Data Analyst – Business Insights & Reporting** *(Jan 2025 - Present)*  
-Platform: Excelerate                                                           
-Location: Remote | Dubai, UAE
+### **Data Analyst – Business Insights & Reporting**                                        
+Platform: Excelerate                                                                 
+Duration: Jan 2025 - Present                                                      
+Location: Remote | Dubai, UAE                                              
 
 🛠 **Tools Used**: Python, SQL, Microsoft Power BI, Excel  
 
@@ -87,9 +88,10 @@ Location: Remote | Dubai, UAE
 
 ---
 
-### **Data Analyst – Marketing Insights & Visualization**  *(Nov 2023 - Dec 2024)*
-Platform: Excelerate/Globalshala                                                                 
-Location: Remote | Dubai, UAE
+### **Data Analyst – Marketing Insights & Visualization**                                                 
+Platform: Globalshala                                               
+Duration: November 2023 - December 2024                                             
+Location: Remote | Dubai, UAE                                                          
 
 🛠 **Tools Used**: Python, Microsoft Power BI, Excel  
 
@@ -100,9 +102,10 @@ Location: Remote | Dubai, UAE
 🔹Improved overall marketing strategy by transforming complex data into clear, decision-ready insights that directly contributed to growth.               
 
 ---
-### **Data Analytics Internship – Elevvo Pathways** *(July - August 2025)*                                                        
-Role: Data Analyst                                                                                                                                             
-Location: Remote | Cario, Egypt                        
+### **Data Analytics Internship – Elevvo Pathways**                                                                                       
+Platform: Elevvo Pathways - Data Analyst                                                          
+Duration: July - August 2025                                                       
+Location: Remote | Cairo, Egypt                                               
 
 🛠 **Tools Used**: Python, SQL, Excel, Microsoft Power BI  
 
@@ -112,9 +115,10 @@ Location: Remote | Cario, Egypt
 🔹Built interactive dashboards and professional reports aligned with industry standards.                                    
 
 ---
-### **Project Management Global Internship – Excelerate** *(July - August 2025)*                                                                 
-Role: Project Manager                                                                                                                   
-Location: Remote | Dubai, UAE                                                  
+### **Project Management Global Internship – Excelerate**                                                                 
+Platform: Excelerate - Project Manager                                               
+Duration: July - August 2025                                             
+Location: Remote | Dubai, UAE                                                                                          
 
 🛠 **Tools Used**: Microsoft Excel, Canva, Google Sheets  
 
@@ -137,6 +141,8 @@ Location: Remote | Dubai, UAE
 - **Introduction to Data Science** – Commonwealth Bank  
 
 - **Quantitative Research** – J.P. Morgan Chase & Co. 
+
+- **AI-Powered Data Insights** – Rochester Institute of Technology
 
 - **AI for Everyone** – Coursera
 
