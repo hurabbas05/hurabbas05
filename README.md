@@ -102,7 +102,7 @@ Location: Remote | Dubai, UAE
 🔹Improved overall marketing strategy by transforming complex data into clear, decision-ready insights that directly contributed to growth.               
 
 ---
-### **Data Analytics Internship – Elevvo Pathways**                                                                                       
+### **Data Analytics Internship **                                                                                                                                   
 Platform: Elevvo Pathways - Data Analyst                                                          
 Duration: July - August 2025                                                       
 Location: Remote | Cairo, Egypt                                               
@@ -115,7 +115,7 @@ Location: Remote | Cairo, Egypt
 🔹Built interactive dashboards and professional reports aligned with industry standards.                                    
 
 ---
-### **Project Management Global Internship – Excelerate**                                                                 
+### **Project Management Global Internship **                                                                                                                                          
 Platform: Excelerate - Project Manager                                               
 Duration: July - August 2025                                             
 Location: Remote | Dubai, UAE                                                                                          
