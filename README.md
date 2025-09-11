@@ -81,10 +81,10 @@ Location: Remote | Dubai, UAE
 
 🛠 **Tools Used**: Python, SQL, Microsoft Power BI, Excel  
 
-🔹 Translated complex datasets into clear, actionable insights, helping businesses improve marketing performance, operational efficiency, and revenue growth.
-🔹 Performed Exploratory Data Analysis (EDA) and applied statistical techniques to uncover business trends, customer behavior, and growth opportunities for data-driven strategies.
-🔹 Designed and deployed interactive dashboards in Power BI & Excel, giving stakeholders real-time KPI tracking and improved business intelligence reporting.
-🔹 Delivered RFM segmentation and Churn/Retention analysis, providing deeper customer insights to strengthen retention, loyalty, and long-term profitability.                             
+🔹 Translated complex datasets into clear, actionable insights, helping businesses improve marketing performance, operational efficiency, and revenue growth.                      
+🔹 Performed Exploratory Data Analysis (EDA) and applied statistical techniques to uncover business trends, customer behavior, and growth opportunities for data-driven strategies.       
+🔹 Designed and deployed interactive dashboards in Power BI & Excel, giving stakeholders real-time KPI tracking and improved business intelligence reporting.                      
+🔹 Delivered RFM segmentation and Churn/Retention analysis, providing deeper customer insights to strengthen retention, loyalty, and long-term profitability.                                            
 
 ---
 
@@ -95,10 +95,10 @@ Location: Remote | Dubai, UAE
 
 🛠 **Tools Used**: Python, Microsoft Power BI, Excel  
 
-🔹 Performed data cleaning, analysis, and visualization of digital marketing campaigns using Excel, Power BI, and Python, delivering insights on ROI and marketing KPIs (Reach, CTR, CPC, Impressions).
-🔹 Developed dashboards & automated reports to monitor campaign performance, optimize budget allocation, and support business decisions.
-🔹 Conducted competitor analysis, trend forecasting, and audience segmentation, strengthening brand positioning and engagement.
-🔹 Collaborated with cross-functional teams to convert data analytics into business insights, driving innovation and measurable campaign results.              
+🔹 Performed data cleaning, analysis, and visualization of digital marketing campaigns using Excel, Power BI, and Python, delivering insights on ROI and marketing KPIs (Reach, CTR, CPC, Impressions).                                                                        
+🔹 Developed dashboards & automated reports to monitor campaign performance, optimize budget allocation, and support business decisions.                             
+🔹 Conducted competitor analysis, trend forecasting, and audience segmentation, strengthening brand positioning and engagement.                                             
+🔹 Collaborated with cross-functional teams to convert data analytics into business insights, driving innovation and measurable campaign results.                                    
 
 ---
 ### **Data Analytics Internship **                                                                                                                                   
