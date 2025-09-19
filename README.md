@@ -146,7 +146,10 @@ Location: Remote | Dubai, UAE
 - **AI for Everyone** – Coursera
 
 ---
+## 🎓 Education
 
+- **Bachelor of Science in Computer Science (Hons.)** – National College of Business Administration & Economics 
+---
 Thanks for visiting!    
 I'm always excited to collaborate, solve real-world problems, or contribute to impactful data projects.  
 Feel free to reach out — let’s turn insights into action! 🚀
