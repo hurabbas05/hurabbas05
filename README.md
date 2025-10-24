@@ -81,9 +81,9 @@ Location: Onsite | Pakistan
 
 🛠 **Tools Used**: Python, Microsoft Power BI, Excel  
 
-🔹I collect, clean, and analyze loan recovery data from both local and international departments using CRM and Yeaster systems to monitor the daily performance of 40+ Relationship Managers (RMs).
-🔹I automate hourly and end-of-day KPI reports using Python, MS Power BI, and Excel dashboards, tracking key metrics such as Total Calls, Unique Calls, Answered Calls, Talktime, CRM updates, and PTP (Promise to Pay).
-🔹By identifying performance trends, call efficiency gaps, and regional recovery patterns, I transform raw data into actionable insights that strengthen decision-making for team leads and operations managers.
+🔹I collect, clean, and analyze loan recovery data from both local and international departments using CRM and Yeaster systems to monitor the daily performance of 40+ Relationship Managers (RMs).                                                                                           
+🔹I automate hourly and end-of-day KPI reports using Python, MS Power BI, and Excel dashboards, tracking key metrics such as Total Calls, Unique Calls, Answered Calls, Talktime, CRM updates, and PTP (Promise to Pay).                                                                                                 
+🔹By identifying performance trends, call efficiency gaps, and regional recovery patterns, I transform raw data into actionable insights that strengthen decision-making for team leads and operations managers.                                                            
 
 ### **Data Analyst – Business Insights & Reporting**                                        
 Platform: Excelerate                                                                 
