@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://www.credly.com/users/hurabbas05">
+    <img src="https://img.shields.io/badge/Credly-FF6A00?style=flat&logo=Credly&logoColor=white" alt="Credly"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://hurabbas05.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
   </a>
@@ -140,21 +144,19 @@ Location: Remote | Dubai, UAE
 ---
 ## 🎓 Certifications
 
-- **Data Analytics Certificate** – Institute of Emerging Careers (IEC)
+- **[IBM Data Science Professional Certificate](https://coursera.org/share/856d7d521428573444b0b7953539ed7d)** – IBM (via Coursera)
  
-- **Data Analytics Job Simulation Certificate** - Deloitte Australia  
+- **[Google Data Analytics Professional Certificate](https://coursera.org/share/ea56807dd1a0015136564dc008b37fe4)** - Google (via Coursera)  
 
-- **Data Analytics Job Simulation Certificate** - Quantium  
+- **[Microsoft Business Analyst Professional Certificate](https://coursera.org/share/6de2bb8b9efa5a061a3177183242e1c7)** - Microsoft (via Coursera)  
 
-- **GenAI Powered Data Analytics** – Tata Group  
+- **[Data Science in Stratified Healthcare and Precision Medicine](https://coursera.org/share/f9826f5790ca830adcc0ccf32736f27b)** – University of Edinburgh 
 
-- **Introduction to Data Science** – Commonwealth Bank  
+- **[Data Analytics Bootcamp Certificate](https://lnd.iec.org.pk/certificate/Certificate677.png)** – Institute of Emerging Careers (IEC)  
 
-- **Quantitative Research** – J.P. Morgan Chase & Co. 
+- **[Google AI Essentials](https://coursera.org/share/35eb681f3431a0b807804d0c6d965874)** – Google (via Coursera) 
 
-- **AI-Powered Data Insights** – Rochester Institute of Technology
-
-- **AI for Everyone** – Coursera
+- **[AI For Everyone](https://coursera.org/share/2d6b1424de4624d555f4c03a41149a24)** – DeepLearning.AI (via Coursera)
 
 ---
 ## 🎓 Education
