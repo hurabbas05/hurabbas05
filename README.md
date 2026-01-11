@@ -21,7 +21,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Location-Pakistan-008000?style=flat"/>
   &nbsp;&nbsp;
-  <a href="https://www.canva.com/design/DAGwzMrgFv8/Oij1AH_wMaalO1tC8N6hoA/view?utm_content=DAGwzMrgFv8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h345c0c569d" target="_blank">
+  <a href="https://www.canva.com/design/DAG9eX3QnoM/Ofq1whU41gy2q1lf4Z3qwg/view?utm_content=DAG9eX3QnoM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4896f55619" target="_blank">
     <img src="https://img.shields.io/badge/📄%20View%20My%20CV-1e90ff?style=flat-square" alt="View My CV"/>
   </a>
 </p>
@@ -30,7 +30,7 @@
 
 ## 🧠 About Me
 
-I'm a **Certified Data Analyst** with a strong grasp of turning raw data into clear, actionable insights. Skilled in data visualization, reporting, and analytics, with added perspective from clinical experience. Adept at uncovering trends and translating complex information into practical recommendations. Focused on driving smart decisions in fast-paced, growth-oriented teams.
+I'm a **Data Analyst** with industry-recognized certifications from Google, IBM, and Microsoft. I transform raw data into clear, actionable insights using tools like Excel, SQL, Tableau, R, and Power BI. With a unique blend of analytical expertise and healthcare domain knowledge, I excel at uncovering hidden trends, building compelling visualizations, and delivering recommendations that drive smarter business decisions. Thrives in fast-paced environments and eager to contribute to data-driven growth in forward-thinking teams.
 
 ---
 
@@ -51,9 +51,9 @@ I'm a **Certified Data Analyst** with a strong grasp of turning raw data into cl
 
 🛠 **Tools Used**: Python, Microsoft Excel, Google Docs  
 
-- Cleaned & transformed RetailX sales data (removed duplicates, handled missing values, fixed formats) to prepare analysis-ready dataset.
-- Performed revenue & return analysis using Python (EDA, KPI tracking, correlation) to identify top-performing regions, categories & payment-return trends.
-- Built visualizations & SWOT-based strategy recommendations to highlight growth opportunities, reduce return rates & support revenue optimization.
+🔹 Cleaned & transformed raw RetailX sales data (removing duplicates, handling missing values, fixing inconsistent formats) and prepared an analysis-ready dataset for accurate reporting.          
+🔹 Performed revenue & return analysis using Python (EDA, correlation, KPI tracking) to uncover top-performing regions, product categories, and payment-return patterns, driving data-backed business insights.     
+🔹 Designed impactful visualizations & strategic recommendations (SWOT-based) to highlight growth opportunities, reduce return rates, and guide decision-making for revenue optimization.       
 
 ---
 
@@ -61,72 +61,59 @@ I'm a **Certified Data Analyst** with a strong grasp of turning raw data into cl
 
 🛠 **Tools Used**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 
-- Analyzed 32,000+ loan records to uncover default risk factors using statistical tests & EDA.
-- Built a predictive model with feature engineering & ML (Random Forest, 97% accuracy, 91% recall on defaulters).
-- Delivered actionable insights on age, income, interest rates & loan grade, helping optimize loan approval & minimize risk.
-- Designed interactive visuals & a presentation to communicate findings clearly to stakeholders.
+🔹 Conducted an in-depth analysis of 32,000 loan records using statistical tests and data visualization to identify key default risk drivers and enhance understanding of financial vulnerabilities.  
+🔹 Designed and developed a predictive pipeline with feature engineering, exploratory data analysis, and sophisticated modeling techniques; the Random Forest model achieved 97% accuracy, demonstrating its effectiveness in risk prediction.  
+🔹 Delivered a presentation of insights, highlighting factors such as age, income, and loan grade to refine approval strategies and mitigate risk, contributing to better decision-making.
 ---
 
 ### 🧬 [Capstone Dry Eye Disease Project](https://github.com/hurabbas05/Capstone-Dry-Eye-Disease-Project)  
 
 🛠 **Tools Used**: MySQL, Microsoft Excel, Microsoft PowerPoint, Canva  
 
-- Transformed raw patient data into actionable insights using MySQL and Excel, identifying lifestyle-driven risk factors for Dry Eye Disease using advanced analytics.
-- Developed data-driven visual narratives that bridged clinical understanding with patient outcomes, improving diagnostic precision.
-- Delivered a 360° analysis of Dry Eye Disease triggers, empowering preventive care strategies through predictive modeling and symptom mapping.
+🔹 Transformed raw patient data into strategic insights, uncovering lifestyle-driven risk factors for Dry Eye Disease using advanced analytics and comprehensive data evaluation techniques.
+🔹 Pioneered data-driven visual narratives to bridge clinical understanding and patient outcomes, enhancing diagnostic precision and refining healthcare communication methodologies.
+🔹 Delivered a 360° analysis of DED triggers, empowering preventive care strategies through predictive modeling and symptom mapping, thus improving patient-specific intervention plans.
 
 ---
 ## 💼 Experience
 
 ### **Data Analyst – Clouddata LLC**                                        
 Company:  Clouddata LLC Pvt Limited                                                                
-Duration: Sep 2025 - Present                                                      
+Duration: September 2025 - Present                                                      
 Location: Onsite | Pakistan                                              
 
 🛠 **Tools Used**: Python, Microsoft Power BI, Excel  
 
-🔹I collect, clean, and analyze loan recovery data from both local and international departments using CRM and Yeaster systems to monitor the daily performance of 40+ Relationship Managers (RMs).                                                                                           
-🔹I automate hourly and end-of-day KPI reports using Python, MS Power BI, and Excel dashboards, tracking key metrics such as Total Calls, Unique Calls, Answered Calls, Talktime, CRM updates, and PTP (Promise to Pay).                                                                                                 
-🔹By identifying performance trends, call efficiency gaps, and regional recovery patterns, I transform raw data into actionable insights that strengthen decision-making for team leads and operations managers.                                                            
+🔹 Collected, cleaned, and analyzed loan recovery data from local and international departments using CRM and Yeastar to monitor daily performance of 40+ Relationship Managers (RMs).                      
+🔹 Automated hourly and end-of-day KPI reports using Python, Power BI, and Excel dashboards, tracking Total Calls, Answered Calls, Talktime, CRM updates, and PTP (Promise to Pay).                      
+🔹 Identified performance trends, call efficiency gaps, and regional recovery patterns, converting raw data into actionable insights for team leads and operations managers.                                                                                     
 
 ### **Data Analyst – Business Insights & Reporting**                                        
 Platform: Excelerate                                                                 
-Duration: Jan - Sep  2025                                                    
+Duration: January - August  2025                                                    
 Location: Remote | Dubai, UAE                                              
 
 🛠 **Tools Used**: Python, SQL, Microsoft Power BI, Excel  
 
-🔹 Translated complex datasets into clear, actionable insights, helping businesses improve marketing performance, operational efficiency, and revenue growth.                      
-🔹 Performed Exploratory Data Analysis (EDA) and applied statistical techniques to uncover business trends, customer behavior, and growth opportunities for data-driven strategies.       
-🔹 Designed and deployed interactive dashboards in Power BI & Excel, giving stakeholders real-time KPI tracking and improved business intelligence reporting.                      
-🔹 Delivered RFM segmentation and Churn/Retention analysis, providing deeper customer insights to strengthen retention, loyalty, and long-term profitability.                                            
+🔹 Translated complex datasets into clear, actionable insights through EDA, identifying business trends and customer behavior to support data-driven decisions.                                        
+🔹 Designed and deployed interactive Power BI and Excel dashboards, significantly improving KPI tracking and enabling real-time reporting for stakeholders.                                        
+🔹 Performed RFM segmentation and Churn/Retention analysis, strengthening customer insights and supporting effective marketing and operational strategies.                                                        
 
 ---
 
 ### **Data Analyst – Marketing Insights & Visualization**                                                 
 Platform: Globalshala                                               
-Duration: November 2023 - December 2024                                             
+Duration: June - December 2024                                             
 Location: Remote | Dubai, UAE                                                          
 
 🛠 **Tools Used**: Python, Microsoft Power BI, Excel  
 
 🔹 Performed data cleaning, analysis, and visualization of digital marketing campaigns using Excel, Power BI, and Python, delivering insights on ROI and marketing KPIs (Reach, CTR, CPC, Impressions).                                                                        
-🔹 Developed dashboards & automated reports to monitor campaign performance, optimize budget allocation, and support business decisions.                             
-🔹 Conducted competitor analysis, trend forecasting, and audience segmentation, strengthening brand positioning and engagement.                                             
-🔹 Collaborated with cross-functional teams to convert data analytics into business insights, driving innovation and measurable campaign results.                                    
-
----
-### Data Analytics Internship                                                                                                                                                     
-Platform: Elevvo Pathways - Data Analyst                                                          
-Duration: July - August 2025                                                       
-Location: Remote | Cairo, Egypt                                               
-
-🛠 **Tools Used**: Python, SQL, Excel, Microsoft Power BI  
-
-🔹Completed a 1-month Data Analytics Track with focus on real-world projects and case studies.                                        
-🔹Conducted data cleaning, transformation, and visualization using Python, SQL, Excel, and Power BI.                                    
-🔹Applied statistical methods and hypothesis testing to extract actionable business insights.                                               
-🔹Built interactive dashboards and professional reports aligned with industry standards.                                    
+🔹 Cleaned, analyzed, and visualized digital marketing campaign data (Excel, Power BI, Python) to deliver insights on ROI and ad performance (Reach, CTR, CPC, Impressions).             
+🔹 Built interactive dashboards and reports for KPI tracking, budget optimization, and strategic decision-making.                                                  
+🔹 Conducted competitor analysis, trend research, and audience segmentation, improving brand positioning and engagement across Instagram & LinkedIn.                               
+🔹 Partnered with cross-functional teams to convert raw data into actionable insights, driving campaign innovation and measurable business results.                                   
+🔹 Improved overall marketing strategy by transforming complex data into clear, decision-ready insights that directly contributed to growth.                                                                                                           
 
 ---
 ### Project Management Global Internship                                                                                                                                                  
