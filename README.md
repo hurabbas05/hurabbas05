@@ -62,17 +62,18 @@ I'm a **Data Analyst** with industry-recognized certifications from Google, IBM,
 🛠 **Tools Used**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 
 🔹 Conducted an in-depth analysis of 32,000 loan records using statistical tests and data visualization to identify key default risk drivers and enhance understanding of financial vulnerabilities.  
-🔹 Designed and developed a predictive pipeline with feature engineering, exploratory data analysis, and sophisticated modeling techniques; the Random Forest model achieved 97% accuracy, demonstrating its effectiveness in risk prediction.  
+🔹 Designed and developed a predictive pipeline with feature engineering, exploratory data analysis, and sophisticated modeling techniques; the Random Forest model achieved 97% accuracy, demonstrating its           effectiveness in risk prediction.  
 🔹 Delivered a presentation of insights, highlighting factors such as age, income, and loan grade to refine approval strategies and mitigate risk, contributing to better decision-making.
+
 ---
 
 ### 🧬 [Capstone Dry Eye Disease Project](https://github.com/hurabbas05/Capstone-Dry-Eye-Disease-Project)  
 
 🛠 **Tools Used**: MySQL, Microsoft Excel, Microsoft PowerPoint, Canva  
 
-🔹 Transformed raw patient data into strategic insights, uncovering lifestyle-driven risk factors for Dry Eye Disease using advanced analytics and comprehensive data evaluation techniques.
-🔹 Pioneered data-driven visual narratives to bridge clinical understanding and patient outcomes, enhancing diagnostic precision and refining healthcare communication methodologies.
-🔹 Delivered a 360° analysis of DED triggers, empowering preventive care strategies through predictive modeling and symptom mapping, thus improving patient-specific intervention plans.
+🔹 Transformed raw patient data into strategic insights, uncovering lifestyle-driven risk factors for Dry Eye Disease using advanced analytics and comprehensive data evaluation techniques.                    
+🔹 Pioneered data-driven visual narratives to bridge clinical understanding and patient outcomes, enhancing diagnostic precision and refining healthcare communication methodologies.                           
+🔹 Delivered a 360° analysis of DED triggers, empowering preventive care strategies through predictive modeling and symptom mapping, thus improving patient-specific intervention plans.                        
 
 ---
 ## 💼 Experience
@@ -108,7 +109,7 @@ Location: Remote | Dubai, UAE
 
 🛠 **Tools Used**: Python, Microsoft Power BI, Excel  
 
-🔹 Performed data cleaning, analysis, and visualization of digital marketing campaigns using Excel, Power BI, and Python, delivering insights on ROI and marketing KPIs (Reach, CTR, CPC, Impressions).                                                                        
+🔹 Performed data cleaning, analysis, and visualization of digital marketing campaigns using Excel, Power BI, and Python, delivering insights on ROI and marketing KPIs (Reach, CTR, CPC, Impressions).                                                                 
 🔹 Cleaned, analyzed, and visualized digital marketing campaign data (Excel, Power BI, Python) to deliver insights on ROI and ad performance (Reach, CTR, CPC, Impressions).             
 🔹 Built interactive dashboards and reports for KPI tracking, budget optimization, and strategic decision-making.                                                  
 🔹 Conducted competitor analysis, trend research, and audience segmentation, improving brand positioning and engagement across Instagram & LinkedIn.                               
