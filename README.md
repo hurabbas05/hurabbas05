@@ -30,7 +30,7 @@
 
 ## 🧠 About Me
 
-I'm a **Data Analyst** with industry-recognized certifications from Google, IBM, and Microsoft. I transform raw data into clear, actionable insights using tools like Excel, SQL, Tableau, R, and Power BI. With a unique blend of analytical expertise and healthcare domain knowledge, I excel at uncovering hidden trends, building compelling visualizations, and delivering recommendations that drive smarter business decisions. Thrives in fast-paced environments and eager to contribute to data-driven growth in forward-thinking teams.
+With over two years of expertise, I'm a **Data Analyst** with industry-recognized certifications from Google, IBM, and Microsoft. I transform raw data into clear, actionable insights using tools like Excel, SQL, Tableau, R, and Power BI. With a unique blend of analytical expertise and healthcare domain knowledge, I excel at uncovering hidden trends, building compelling visualizations, and delivering recommendations that drive smarter business decisions. Thrives in fast-paced environments and eager to contribute to data-driven growth in forward-thinking teams.
 
 ---
 
