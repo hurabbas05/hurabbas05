@@ -149,7 +149,7 @@ Location: Remote | Dubai, UAE
 ---
 ## 🎓 Education
 
-- **Bachelor of Science in Computer Science (Hons.)** – National College of Business Administration & Economics 
+- **BSc(Hons.) Optometry and Orthoptics** – Pakistan Institute of Ophthalmology, Alshifa Trust Eye Hospital, Rawalpindi 
 ---
 Thanks for visiting!    
 I'm always excited to collaborate, solve real-world problems, or contribute to impactful data projects.  
