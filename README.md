@@ -149,7 +149,7 @@ Location: Remote | Dubai, UAE
 ---
 ## 🎓 Education
 
-- **Graduated [BSc(Hons.)]** – 2021 - 2025
+- **Graduated with BSc(Hons.) degree** – 2021 - 2025
 ---
 Thanks for visiting!    
 I'm always excited to collaborate, solve real-world problems, or contribute to impactful data projects.  
