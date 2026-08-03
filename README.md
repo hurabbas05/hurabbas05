@@ -149,7 +149,7 @@ Location: Remote | Dubai, UAE
 ---
 ## 🎓 Education
 
-- **BSc(Hons.) Optometry and Orthoptics** – Pakistan Institute of Ophthalmology, Alshifa Trust Eye Hospital, Rawalpindi 
+- **Graduated [BSc(Hons.)] ** – 2021 - 2025
 ---
 Thanks for visiting!    
 I'm always excited to collaborate, solve real-world problems, or contribute to impactful data projects.  
