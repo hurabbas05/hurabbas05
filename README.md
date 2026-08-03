@@ -21,7 +21,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Location-Pakistan-008000?style=flat"/>
   &nbsp;&nbsp;
-  <a href="https://www.canva.com/design/DAG9eX3QnoM/Ofq1whU41gy2q1lf4Z3qwg/view?utm_content=DAG9eX3QnoM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4896f55619" target="_blank">
+  <a href="https://canva.link/ctidbtgw8gbee9t" target="_blank">
     <img src="https://img.shields.io/badge/📄%20View%20My%20CV-1e90ff?style=flat-square" alt="View My CV"/>
   </a>
 </p>
